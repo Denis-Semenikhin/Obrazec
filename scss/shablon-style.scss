@@ -1,0 +1,24 @@
+//Брейкпоинты для адаптивной верстки
+$maxw: 1200px;
+$midw: 992px;
+$minw: 767px;
+
+//Основные цвета
+$col1: black;
+$col2: white;
+
+//Медиазапрос
+/*@media (max-width: $maxw) {
+  conteiner {
+    max-width: midw;
+  }
+  @media (max-width: $midw) {
+  conteiner {
+    max-width: minw;
+  }
+}*/
+
+//Контейнер
+/*.conteiner{
+    max-width: $maxw;
+}*/
